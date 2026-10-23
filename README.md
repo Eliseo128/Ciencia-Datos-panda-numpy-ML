@@ -19,3 +19,8 @@ https://github.com/haroontrailblazer/EDA.git
 
 ## Cheat Sheets numpy pandas matplotlib
 https://darkhelmet.github.io/cheats/python/pandas/
+
+## Important-Data-Science-Libraries
+https://github.com/SahibzadaSalman/Important-Data-Science-Libraries.git
+
+
