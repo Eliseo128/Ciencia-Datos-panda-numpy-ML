@@ -16,3 +16,6 @@ https://github.com/garimaakashyap/zomato-data-analysis-using-python.git
 
 ## Exploratory Data Analysis (EDA) Public Learning Repository
 https://github.com/haroontrailblazer/EDA.git
+
+## Cheat Sheets numpy pandas matplotlib
+https://darkhelmet.github.io/cheats/python/pandas/
