@@ -13,3 +13,6 @@ https://github.com/garimaakashyap/Seaborn.git
 
 ## garima zomato data analysis project
 https://github.com/garimaakashyap/zomato-data-analysis-using-python.git
+
+## Exploratory Data Analysis (EDA) Public Learning Repository
+https://github.com/haroontrailblazer/EDA.git
